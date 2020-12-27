@@ -18,7 +18,7 @@
 
 int Fibonacci::CalculateRecursive(int n)
 {
-	if (n > 30)
+	if (n > 31)
 	{
 		throw std::invalid_argument("The number is too large!");
 	}
