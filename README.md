@@ -2,8 +2,8 @@
 
 Boilerplate for C++ solutions created with Visual Studio 2019.
 
-[![Build status](https://ci.appveyor.com/api/projects/status/rpwqok2v26kr0kwp/branch/main?svg=true)](https://ci.appveyor.com/project/matei-tm/cppworkshops/branch/main)
-![GitHub](https://img.shields.io/github/license/matei-tm/CppWorkshops)
+[![Build status](https://ci.appveyor.com/api/projects/status/oljk5h4lnxyr4b18/branch/main?svg=true)](https://ci.appveyor.com/project/matei-re/cppworkshops/branch/main)
+![GitHub](https://img.shields.io/github/license/matei-re/CppWorkshops)
 
 ## Features
 
